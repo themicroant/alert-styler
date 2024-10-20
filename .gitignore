@@ -3,3 +3,9 @@
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Dependency directories
+node_modules/
+
+# Built app
+dist/
