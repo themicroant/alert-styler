@@ -1,0 +1,5 @@
+# Intellij folders
+.idea/*
+
+# TypeScript cache
+*.tsbuildinfo
